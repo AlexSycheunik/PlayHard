@@ -27,22 +27,24 @@
 ##  1.2. Диаграммы активности
 
 <p align="center">
-  <img width="800" src="https://github.com/Lst11/PlayHard/blob/diagram/diagrams/images/Catalog_algorithm.png">
+  <img src="https://github.com/Lst11/PlayHard/blob/diagram/diagrams/images/Catalog_algorithm.png">
 </p>
 
 <p align="center">
-  <img width="800" src="https://github.com/Lst11/PlayHard/blob/diagram/diagrams/images/Registration_algorithm.png">
+  <img src="https://github.com/Lst11/PlayHard/blob/diagram/diagrams/images/Registration_algorithm.png">
 </p>
 
 <p align="center">
-  <img width="800" src="https://github.com/Lst11/PlayHard/blob/diagram/diagrams/images/Order_algorithm.png">
+  <img src="https://github.com/Lst11/PlayHard/blob/diagram/diagrams/images/Order_algorithm.png">
 </p>
 
 <a name="1.3"/>
 
 ##  1.3. Диаграммы состояний
 
-![Диаграмма cостояний](images/Use_cases_diagram.png)
+<p align="center">
+  <img src="https://github.com/Lst11/PlayHard/blob/diagram/diagrams/images/Use_cases_diagram.png">
+</p>
 
 #  2. Моделирование статической структуры системы
 
@@ -50,7 +52,9 @@
 
 ##  2.1. Диаграмма классов
 
-![Диаграмма классов](images/Class_diagram.png)
+<p align="center">
+  <img src="https://github.com/Lst11/PlayHard/blob/diagram/diagrams/images/Class_diagram.png">
+</p>
 
 <a name="2.2"/>
 
