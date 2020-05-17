@@ -1,11 +1,11 @@
 ### Start page
 
-![Start](mockups/Start_page.png)
+![Start](/https://github.com/Lst11/PlayHard/blob/mockup/mockups/Start_page.png)
 
 ### Catalog page
 
-![Start](mockups/Catalog_page.png)
+![Catalog](https://github.com/Lst11/PlayHard/blob/mockup/mockups/Catalog_page.png)
 
 ### Game page
 
-![Start](mockups/Item_page.png)
+![Item](https://github.com/Lst11/PlayHard/blob/mockup/mockups/Item_page.png)
