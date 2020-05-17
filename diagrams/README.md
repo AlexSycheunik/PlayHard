@@ -26,6 +26,18 @@
 
 ##  1.2. Диаграммы активности
 
+<p align="center">
+  <img width="800" src="https://github.com/Lst11/PlayHard/blob/diagram/diagrams/images/Catalog_algorithm.png">
+</p>
+
+<p align="center">
+  <img width="800" src="https://github.com/Lst11/PlayHard/blob/diagram/diagrams/images/Registration_algorithm.png">
+</p>
+
+<p align="center">
+  <img width="800" src="https://github.com/Lst11/PlayHard/blob/diagram/diagrams/images/Order_algorithm.png">
+</p>
+
 <a name="1.3"/>
 
 ##  1.3. Диаграммы состояний
