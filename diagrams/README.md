@@ -24,6 +24,8 @@
 
 ![Поиск](images/Search_sequance.png)
 
+<a name="1.2"/>
+
 ##  1.2. Диаграммы активности
 
 <p align="center">
